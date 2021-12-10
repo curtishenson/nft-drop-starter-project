@@ -1,0 +1,23 @@
+{
+  "name": "KITTY_CAN",
+  "symbol": "",
+  "image": "1.png",
+  "collection": {
+     "name": "Fart Cans Season 1",
+     "family": "FartCans"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "41NE73bJuy6sYEoCrphy5zUXgDqJKPgCf3trg2HTvHuz",
+        "share": 100
+      }
+    ]
+  }
+}
